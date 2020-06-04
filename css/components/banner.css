@@ -1,0 +1,26 @@
+.hero-banner {
+    background-image: url(../../images/background.png);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.hero-banner h1 {
+  color: white;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.hero-banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+
+p {
+    display: block;
+    margin-bottom: 30px;
+}
